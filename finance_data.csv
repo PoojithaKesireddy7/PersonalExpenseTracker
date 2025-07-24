@@ -1,0 +1,51 @@
+date,amount,category,description
+04-06-2024,1304.60,Expense,Bus Fare
+07-06-2024,1327.83,Expense,Monthly Rent
+11-06-2024,3616.92,Expense,Restaurant
+29-06-2024,1532.78,Expense,Internet Bill
+12-07-2024,4542.58,Income,Salary
+19-07-2024,3000.00,Income,Salary
+20-07-2024,125.65,Income,Salary
+20-07-2024,1399.71,Income,Side Gig
+24-07-2024,3897.13,Expense,Movie Tickets
+31-07-2024,1194.24,Expense,Internet Bill
+03-08-2024,2114.54,Expense,Streaming Service
+09-08-2024,557.96,Expense,Stock Purchase
+10-08-2024,1508.26,Expense,Doctor Visit
+19-08-2024,2170.52,Expense,Restaurant
+25-08-2024,4265.02,Expense,Electricity Bill
+15-09-2024,2540.27,Income,Bonus
+28-09-2024,278.32,Expense,Monthly Rent
+30-09-2024,2335.30,Expense,Bus Fare
+06-10-2024,3161.20,Expense,Restaurant
+17-10-2024,3386.22,Expense,Movie Tickets
+29-10-2024,2702.30,Expense,Streaming Service
+07-11-2024,1713.08,Expense,Electricity Bill
+18-11-2024,2293.51,Expense,Savings Deposit
+27-11-2024,2214.48,Expense,Stock Purchase
+03-12-2024,4869.77,Income,Side Gig
+14-12-2024,2120.03,Expense,Doctor Visit
+30-12-2024,2069.04,Expense,Monthly Rent
+04-01-2025,4072.75,Expense,Bus Fare
+13-01-2025,3799.93,Income,Salary
+25-01-2025,407.94,Expense,Streaming Service
+29-01-2025,1099.61,Expense,Internet Bill
+05-02-2025,4799.81,Expense,Electricity Bill
+05-02-2025,3104.11,Income,Side Gig
+08-02-2025,739.02,Expense,Stock Purchase
+13-02-2025,403.62,Expense,Streaming Service
+04-03-2025,4107.30,Expense,Stock Purchase
+01-04-2025,423.99,Expense,Internet Bill
+25-04-2025,636.65,Expense,Stock Purchase
+26-04-2025,4718.76,Income,Salary
+05-05-2025,893.47,Expense,Electricity Bill
+07-05-2025,1679.65,Expense,Movie Tickets
+11-05-2025,1867.22,Expense,Savings Deposit
+20-05-2025,2949.82,Expense,Bus Fare
+22-05-2025,1705.93,Expense,Monthly Rent
+17-06-2025,2742.49,Expense,Stock Purchase
+04-07-2025,1090.48,Expense,Bus Fare
+07-07-2025,125.00,Income,Side Gig
+
+06-07-2025,100.0,Expense,rent
+10-07-2025,10.0,Expense,Groceries
